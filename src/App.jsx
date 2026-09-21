@@ -26,7 +26,7 @@ function App() {
 
       <main>
         <section id="home">
-          <h1>Hi, I'm Abhinav Jain</h1>
+          <h1>Hi, I'm Abhinav Jain 👋</h1>
 
           <h2>DevOps Engineer</h2>
 <p>
